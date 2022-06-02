@@ -9,7 +9,7 @@
 * 2nd, make sure you have all the dependencies installed (open `install_requirements.bat` to verify)
 * 3rd, go into repository and run `python config.py` in console to configure your app 
 * 4th, after you saved changes, close the terminal
-* Enjoy!
+* Enjoy! This app works on background and doesn't consume many resources
 * If you move folder where you installed project, please run `config.py` again to update changes
 ***
 
