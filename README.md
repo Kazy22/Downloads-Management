@@ -6,8 +6,8 @@
 ![](icons/preview.png)
 # How to run
 * 1st, clone the repository
-* 2nd, make sure you have all the dependencies installed (open 'install_requirements.bat' to verify)
-* 3rd, go into repository and run `python config.py` to configure your app 
+* 2nd, make sure you have all the dependencies installed (open `install_requirements.bat` to verify)
+* 3rd, go into repository and run `python config.py` in console to configure your app 
 * 4th, after you saved changes, close the terminal
 * Enjoy!
 ***
