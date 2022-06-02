@@ -1,0 +1,12 @@
+{
+  "source_dir": "",
+  "dest_dir_image": "",
+  "dest_dir_video": "",
+  "dest_dir_music": "",
+  "dest_dir_documents": "",
+  "dir_image_check": 1,
+  "dir_video_check": 1,
+  "dir_music_check": 1,
+  "dir_documents_check": 1,
+  "startup_check": 1
+}
