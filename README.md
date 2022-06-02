@@ -10,7 +10,7 @@
 * 3rd, go into repository and run `python config.py` in console to configure your app 
 * 4th, after you saved changes, close the terminal
 * Enjoy!
-* !If you move folder where you installed project, please run `config.py` again to update changes
+* If you move folder where you installed project, please run `config.py` again to update changes
 ***
 
-###### please follow me on github and star this project ;)
+###### ❤️ please follow me on github and star this project ;)
